@@ -8,7 +8,7 @@ Antes de iniciar, certifique-se de ter o seguinte instalado em sua máquina:
 Node.js (v14 ou superior)
 npm (v7 ou superior) ou yarn (v1 ou superior)
 
-Além disso, é necessário baixar e executar a API desenvolvida em Node.js de outro projeto para que este aplicativo funcione corretamente.
+Além disso, é necessário baixar e executar a [API desenvolvida em Node.js](https://github.com/escobarAndre/video_transcription_api) para que este aplicativo funcione corretamente.
 
 ## Instalação
 Clone este repositório:

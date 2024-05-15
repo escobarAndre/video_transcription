@@ -21,6 +21,8 @@ form?.addEventListener('submit', async (event: Event) => {
     
     const { data } = await axios.get('http://localhost:3333/audio?videoId=' + getVideoIdUrl(url))
 
+    console.log(data)
+
     renderTranscription(data);
   } catch (error) {
     console.error('[SUBMIT_ERROR]', error)

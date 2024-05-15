@@ -1,0 +1,20 @@
+{
+  "name": "video-transcription-ai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "server": "node server/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "ytdl-core": "^4.11.5"
+  }
+}

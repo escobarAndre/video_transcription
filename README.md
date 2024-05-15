@@ -1,4 +1,5 @@
-Video Transcription AI
+# Video Transcription AI
+
 O Video Transcription AI é um projeto front-end que se conecta a uma API para facilitar a transcrição de vídeos do YouTube. Este projeto foi desenvolvido com Vite e JavaScript puro.
 
 Pré-requisitos
